@@ -42315,7 +42315,6 @@ zuuk.org###fl10
 ||storage.fshare.vn/images/$third-party
 ||storage.googleapis.com/adasia-ad-network-origin/
 ||storage.outbrain.com^
-||store-stc.zdn.vn^
 ||store.adx1.com^
 ||store.taboola.com^
 ||store2.gumgum.com^
