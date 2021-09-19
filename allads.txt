@@ -9806,7 +9806,6 @@ zuuk.org###fl10
 ||appsfire.com^
 ||appsfire.net^
 ||appsflybeta.biz^
-||appsflyer.com^
 ||appsha2.ctnetload2.com^
 ||appsha2.space^
 ||appsha5.space^
