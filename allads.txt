@@ -7663,6 +7663,7 @@ zuuk.org###fl10
 ||advombat.ru^
 ||advon.net^
 ||advonline.goforandroid.com^
+||advp.apple.com^
 ||advpn.adnow.com^
 ||advpoints.com^
 ||advredirect.net^
@@ -15090,6 +15091,7 @@ zuuk.org###fl10
 ||comptoir-hardware.com/edi/edi7_sq.php$subdocument
 ||comradepony.com^
 ||comscore.com^
+||comscoreresearch.*^
 ||comscoreresearch.com^
 ||comuwczkajglxs.com^
 ||comvelgmbh.d1.sc.omtrdc.net^
@@ -24007,12 +24009,14 @@ zuuk.org###fl10
 ||iad-2-sync.go.sonobi.com^
 ||iad-2-xcp.go.sonobi.com^
 ||iad-2.go.sonobi.com^
+||iad-apple.com*^
 ||iad-feed.qwapi.com^
 ||iad-login.dotomi.com^
 ||iad-usadmm.dotomi.com^
 ||iad.anm.co.uk^
 ||iad.appboy.com^
 ||iad.apple.com^
+||iad.apple.com^ 
 ||iad.conversantmedia.com^
 ||iad.eclick.vn^
 ||iad1.qualtrics.com^
@@ -24020,6 +24024,7 @@ zuuk.org###fl10
 ||iadasa.qwapi.com^
 ||iadc-origin.qwapi.com^
 ||iadc.qwapi.com^
+||iadcontent.apple.com^
 ||iadcpreview.qwapi.com^
 ||iadctest-origin.qwapi.com^
 ||iadctest.qwapi.com^
@@ -24028,6 +24033,7 @@ zuuk.org###fl10
 ||iadfeedtest.qwapi.com^
 ||iadfjbrttvgn.com^
 ||iadmfeed.qwapi.com^
+||iadmoo.apple.com^
 ||iadmsoak.qwapi.com^
 ||iadnet.com^
 ||iadsdk.apple.com^
@@ -24036,6 +24042,7 @@ zuuk.org###fl10
 ||iadv.biz^
 ||iadvert.net^
 ||iadvize.com^
+||iadworkbench.apple.com^ 
 ||iafqqcsw.com^
 ||iaheyftbsn.review^
 ||iajcvxcqktpm.com^
@@ -27275,6 +27282,7 @@ zuuk.org###fl10
 ||lauhauch.com^
 ||laujouty.com^
 ||launch.adserver.yahoo.com^
+||launch.apple.com^ 
 ||launchbit.com^
 ||launcher.us.yeshen.com^
 ||launchers.network^
@@ -29777,6 +29785,7 @@ zuuk.org###fl10
 ||metrics.ambient-platform.com^
 ||metrics.apartments.com^
 ||metrics.api.drift.com^
+||metrics.apple.com^
 ||metrics.aviasales.ru^
 ||metrics.aws.sitepoint.com^
 ||metrics.backtrace.io^
@@ -36986,6 +36995,7 @@ zuuk.org###fl10
 ||qvsogqqd.com^
 ||qvsshkcr.com^
 ||qvvxyuuyinxp.com^
+||qwapi.apple.com^
 ||qwapi.com^
 ||qwb.adblade.com^
 ||qwbnzilogwdc.com^
@@ -39560,6 +39570,7 @@ zuuk.org###fl10
 ||securedashfuyiersa.com^
 ||securee.ru^
 ||secureframe.doubleclick.net^
+||securemetrics.apple.com^
 ||securepaths.com^
 ||securepubads.g.doubleclick.net^
 ||securesmrt-dt.com^
