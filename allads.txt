@@ -1,4 +1,8 @@
 ###AdBlockDialog
+###_no-clickjacking-0
+###_no-clickjacking-0 > div:nth-of-type(1)
+###_no-clickjacking-1
+###_no-clickjacking-1 > div:nth-of-type(1)
 ###abp-killer
 ###adBlockAlert
 ###adBlockAlertWrap
@@ -25,14 +29,21 @@
 ###banner_FloatRight
 ###bannertop
 ###detectadblock
+###divFLRALeft > [href^="https://www.mu922.com/"]
+###divFLRARight > [href^="https://www.mu922.com/"]
 ###fnAdblockingOverlay
+###gourabblock
 ###message_adblock
 ###mobileCatfish
+###modal-first-part
 ###qcBallonright
 ###quangcaomb
 ###quangcaopc
+###unlock-form
 ##.AdblockMessage
 ##.AdblockMessage_msg
+##.WWmsDSRKciSD-bg
+##.WWmsDSRKciSD-default
 ##.ad-block-enabled
 ##.ad-block-message
 ##.ad-blocked
@@ -62,10 +73,12 @@
 ##.ads_area_01
 ##.ads_area_03
 ##.ads_area_04
+##.alert-info.alert
 ##.boun-media
 ##.boun-media1
 ##.close-ads
 ##.close-ads-player
+##.computer.lightbox-player-pc
 ##.counterAdblocks
 ##.deadblocker-header-bar
 ##.deadblocker-header-bar-inner
@@ -77,11 +90,17 @@
 ##.jw-cue
 ##.kill-adblock-container
 ##.leftAdsBanner
+##.mfp-inline-holder.mfp-container
+##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+##.mfp-ready.mfp-bg
 ##.midroll-marker
 ##.noadblock
+##.pc-catfix
+##.playable.overlay
 ##.quangcao
 ##.show-ads-banner
 ##.top-bar-adblock
+##.wrap_loading.modal
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href="http://goo.gl/jQ9bcz"]
@@ -92,8 +111,14 @@
 ##A[href^="http://www.yourfilezone.com/play?lng="]
 ##A[href^="https://action.metaffiliation.com/trk.php?"]
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
+##[href="https://rebrand.ly/sam86voifilm"]
+##[href="https://www.bk8happy.com"]
 ##[href^="http://www.sbbanner.com/"]
+##[href^="https://gowin39.com/"]
 ##[href^="https://r88.vn/"]
+##[href^="https://t.frtyo.com/abi4axee80"]
+##[href^="https://t.hrtyj.com/v2k44zf0ow"]
+##[href^="https://www.i99906.com/"]
 ##[href^="https://zbet.vn/"]
 ##[id*="exo_"]
 ##[id^="balloonads"]
@@ -106,6 +131,8 @@
 ##a[href^="//"][rel="nofollow norefferer noopener"][style*="position: fixed;"][style*="width: 9"][style*="height: 9"][style*="z-index:"]
 ##a[id][href*="/PVZ/PVZ.php?c="][rel=nofollow][target=_blank]
 ##a[style="position: absolute; inset: 0px; display: block;"][href*="?promo="][target="_blank"]
+##div.text-center:nth-of-type(10) > .textwidget > .adpia_banner
+##div.text-center:nth-of-type(3) > .textwidget > .adpia_banner
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ##div[style="position: absolute; inset: 0px; overflow: hidden; z-index: 160; background: transparent none repeat scroll 0% 0%; display: block;"]
 ##div[style="position: fixed; display: block; width: 100%; height: 100%; inset: 0px; background-color: rgba(0, 0, 0, 0); z-index: 300000;"]
@@ -24648,7 +24675,9 @@ zuuk.org###fl10
 ||i.imgur.com/81uid6d.jpg
 ||i.imgur.com/FbUH5AQ.png
 ||i.imgur.com/Q0a2mv2.png
+||i.imgur.com/iNrBshK.jpg$image
 ||i.imgur.com/lgfyvo2.jpg
+||i.imgur.com/nTlks3t.gif$image
 ||i.imgur.com^$domain=chophanthiet.us|nhacdj.vn|phimdinhcao.com|phimmedia.me|phim.media|truyenfull.vn|animet.net|diendanit.net|banbuondalat.com|khoedep.vn
 ||i.imgur.com^$domain=chophanthiet.us|nhacdj.vn|phimmedia.info|phimmedia.me|phimmedia.tv|phim.media|phim13.com|truyenfull.vn
 ||i.imgur.com^$domain=chophanthiet.us|nhacdj.vn|phimmedia.info|phimmedia.tv|phim.media|phim13.net|truyenfull.vn
@@ -40905,6 +40934,7 @@ zuuk.org###fl10
 ||sg-mtrack.rayjump.com^
 ||sg-ssl.effectivemeasure.net^
 ||sg-test-11.slatic.net/other/lzd-ad/
+||sg-test-11.slatic.net/other/lzd-ad/7daeff57bbecaf3b1e9beb0c6b2924c3.png$image
 ||sg.adserver.yahoo.com^
 ||sg.aip.insightexpressai.com^
 ||sg.akamai.startappservice.com^
@@ -43739,10 +43769,12 @@ zuuk.org###fl10
 ||t.fidelity-media.com^
 ||t.flux.com^
 ||t.frtyi.com^
+||t.frtyo.com/abi4axee80?url_id=17832&aff_id=69613&offer_id=6313&aff_sub=desktop&bo=2779,2778,2777,2776,2775&source=SOURCEHERE&po=6533$subdocument
 ||t.g.l.inmobicdn.net^
 ||t.gammaplatform.com^
 ||t.growingio.com^
 ||t.hoood.info^
+||t.hrtyj.com/v2k44zf0ow?url_id=18345&aff_id=69613&offer_id=3688&aff_sub=Center&bo=2779,2778,2777,2776,2775$subdocument
 ||t.hypers.com.cn^
 ||t.insigit.com^
 ||t.invitemedia.com^
