@@ -133,3 +133,5 @@ reddit.com##div#faceplate-tooltip
 reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
 reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
+
+reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
