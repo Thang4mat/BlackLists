@@ -114,3 +114,22 @@ animeviesub.com###mp-preload-popup-overlay
 motphimchilltv.org###catfish_content
 
 ||adsphim.xyz
+
+! 2024-08-05 https://www.tradingview.com
+www.tradingview.com##.spinner-kckar8jz
+www.tradingview.com##.toast-kckar8jz
+
+||agghriwaz.com
+||accoptha.com
+||ohtpigod.com
+
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-desktop-*.js
+||www.redditstatic.com/shreddit/en-US/icon-nsfw-outline-*.js
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+
+reddit.com##faceplate-hovercard > div[slot="content"]
+reddit.com##div#faceplate-tooltip
+reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
