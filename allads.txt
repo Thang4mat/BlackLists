@@ -134,4 +134,18 @@ reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
 reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
 
+reddit.com##[bundlename$="nsfw_blocking_modal"]:remove()
+! https://www.reddit.com/r/uBlockOrigin/comments/1dzrnq3/remove_popups_from_reddit_mobile/
 reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
+www.reddit.com##xpromo-nsfw-blocking-modal-desktop
+
+! Jan 23, 2025 https://www.jvpcbc.com
+##.center.ADs-BG
+
+||ojkfmoackqp.com
+
+! ---Rophim---
+||finallygotthexds.site
+||9bet.net
+||tx88.com
+##.sspp-area
