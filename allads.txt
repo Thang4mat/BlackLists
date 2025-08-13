@@ -142,6 +142,21 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ! Jan 23, 2025 https://www.jvpcbc.com
 ##.center.ADs-BG
 
+||api-adservices.apple.com^
+###mp-preload-popup-overlay
+###catfish_content
+||adsphim.xyz
+##.spinner-kckar8jz
+##.toast-kckar8jz
+###ads
+##div.fads
+##div.fadsxxx
+##div._4KjPzfFqnPyBgIgiXkX
+##div.site-content.content-chapter:nth-child(6) > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.ad.c-ads.custom-code.col-md-12.ehihi:nth-child(2) > div.container > div.row
+###chapter_content > div.ad.c-ads.custom-code.col-md-12.fhihi:first-child > div.row
+##div:nth-child(29)
+###_pop-qqgo-11
+###footerFixed > div.footer-banner-container
 ||ojkfmoackqp.com
 
 ! ---Rophim---
@@ -149,3 +164,4 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ||9bet.net
 ||tx88.com
 ##.sspp-area
+
