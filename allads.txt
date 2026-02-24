@@ -180,3 +180,5 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ##.popup
 ||imgcdn.mikelarsenal.pro$image
 
+||kurmarlibri.in
+
