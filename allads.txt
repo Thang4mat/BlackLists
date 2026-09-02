@@ -182,6 +182,7 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ##.popup
 ||imgcdn.mikelarsenal.pro$image
 
+<<<<<<< HEAD
 ! Aug 21, 2025 https://motchilli.to
 ##.popup-overlay
 ##.disable-ads-icon
@@ -373,3 +374,8 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 ||388bet.phd^
 ||sin88.wales^
 ||lucky88.futbol^
+=======
+||kurmarlibri.in
+||vziodjoxbanr.in
+
+>>>>>>> b6e62ade46c01dbecc48966b2033a45915600bde
