@@ -111,7 +111,7 @@ dmm.co.jp##[id="welcome"]
 animeviesub.com###mp-preload-popup-overlay
 
 ! 2024-06-14 https://motphimchilltv.org
-motphimchilltv.org###catfish_content
+###catfish_content
 
 ||adsphim.xyz
 
@@ -162,6 +162,8 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ! ---Rophim---
 ##.ipprtcnt
 ##.footer-fixed-br-container
+##.show.modal.sspp-modal.d-modal.v-modal.fade
+##.show.modal-backdrop.fade
 
 ||finallygotthexds.site
 ||9bet.net
@@ -180,3 +182,194 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ##.popup
 ||imgcdn.mikelarsenal.pro$image
 
+! Aug 21, 2025 https://motchilli.to
+##.popup-overlay
+##.disable-ads-icon
+##.cat-footer-wrapper
+##.container-aam.container > .aam-banner-wrapper
+##.container-aam-player.container > .aam-banner-wrapper
+
+animevietsub.io#%#//scriptlet("abort-current-inline-script", "document.documentElement", "break;case $.")
+aoe.vn#%#//scriptlet("abort-on-property-read", "parseInt")
+audiotruyenfull.com#%#//scriptlet("abort-on-property-read", "adpiaListUrl")
+azrom.net#%#//scriptlet("abort-current-inline-script", "atob", "ai_block_class")
+azrom.net#%#//scriptlet("abort-on-property-read", "adsBlocked")
+baomoi.com#%#//scriptlet("abort-on-property-write", "AdtimaRender")
+cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn,afamily.vn#%#//scriptlet("abort-current-inline-script", "Object.defineProperty", "ADMStorageFileCDN")
+cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn,afamily.vn#%#//scriptlet("set-constant", "ADMStorageFileCDN", "noopFunc")
+chillphimmoizz.org#%#//scriptlet("remove-attr", "data-pop1|data-pop2", "body")
+chotlo247.me#$##header {margin-top: 0!important}
+cunghocvui.com#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "opened_window_shoppe")
+dood.pm#%#//scriptlet("abort-on-property-write", "DoodPop")
+downloadsachmienphi.com,lrepacks.net#%#//scriptlet("abort-current-inline-script", "JSON.parse", "break;case $.")
+dualeotruyenme.com,m.blogtruyenmoi.com#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "popunder")
+fcbarcelonaclan.com#%#//scriptlet("abort-on-property-read", "adsRedirectPopups")
+femax20.com#%#//scriptlet("prevent-addEventListener", "click", "open")
+giavang.net#%#//scriptlet("prevent-fetch", "method:HEAD")
+gocphimvnn.com,p.thoctv.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "script")
+gotphim.com#%#//scriptlet("abort-current-inline-script", "navigator", "devtoolsDetector")
+gvnvh18.com,sexdiaryx.me#%#//scriptlet("set-constant", "D4zz", "noopFunc")
+hh3dhay.lol,hh3dhay.xyz#%#//scriptlet("abort-current-inline-script", "document.createElement", ";break;case")
+holyfilm.org#%#//scriptlet("abort-current-inline-script", "window.addEventListener", "window.open")
+ios.codevn.net#%#//scriptlet("abort-current-inline-script", "setInterval", "offsetHeight")
+javnong.cc#%#//scriptlet("abort-on-property-read", "Math.round")
+khohieu.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "chpadblock")
+linkneverdie.net#%#//scriptlet("abort-current-inline-script", "document.createElement", "optad")
+linkneverdie.net#%#//scriptlet("abort-on-property-read", "pushOnPageGala")
+linkneverdie.net#%#//scriptlet("prevent-setTimeout", "DisplayAHTML", "5000")
+linkneverdie.net#%#//scriptlet("prevent-setTimeout", "callback", "4003")
+live4.thapcam4.net,blog.abit.vn##.modal-backdrop.show
+live4.thapcam4.net,blog.abit.vn##.show.fade
+live4.thapcam4.net,blog.abit.vn#$#body {overflow: visible!important;}
+luotphimtv1.com,luotphimtv1.net,luotphim2.net,luotphim1.net,luotphimtv.vip,webphim2.com,cdnwp.icu#%#//scriptlet("json-prune", "0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile")
+lxmanga.net#%#//scriptlet("abort-current-inline-script", "$", "PopUnder")
+nettruyenall.com#%#//scriptlet("abort-current-inline-script", "Promise", "break;case")
+nettruyenus.net#%#//scriptlet("abort-on-property-read", "sp")
+phimgichill.net,hhhay.tv,hh3dhay.pro,truyengihotnha.com,truyengihotnha.net#%#//scriptlet("abort-current-inline-script", "eval", "$._Eu")
+phimgichill.net,mephimnhe1.net#%#//scriptlet("abort-current-inline-script","jQuery", "popurl")
+phimhdc.net,motchill.ac#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "linksToOpen")
+phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,clipsex.io,xxxvietnam.io,sex.gaimup.net,xx.phimsexvip.cc,xx.phimsexnhathay.com,webx.ditnhau.cc#%#//scriptlet("set-constant", "video.adVast", "")
+phimmoi4s.com#%#//scriptlet("json-prune", "ads")
+phimmoi4s.com,phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#%#//scriptlet("abort-on-property-read", "localStorage")
+phimmoinay.vip#%#//scriptlet("abort-current-inline-script", "jQuery", "click_time")
+phimtho.net##+js(acs, $, p0pUpRandom)
+phimvietsub.pro,api.anime3s.com,subnhanh.xyz#%#//scriptlet("set-constant", "maxAds", "0")
+phimvuihd.org#%#//scriptlet("set-constant", "urlAds", "")
+plvb.xyz,rk.plcdn.xyz#%#//scriptlet("abort-on-property-read", "ads")
+plvb.xyz,rk.plcdn.xyz#%#//scriptlet("abort-on-property-read", "adsPlayer")
+plvb.xyz,rk.plcdn.xyz#%#//scriptlet("abort-on-property-read", "adsPopupPlayer")
+plvb.xyz,rk.plcdn.xyz#%#//scriptlet("abort-on-property-read", "adsTvc")
+plvb.xyz,rk.plcdn.xyz#%#//scriptlet("abort-on-property-read", "keyPlayer")
+rphang.cx,misskon.com#%#//scriptlet("abort-current-inline-script", "document.querySelectorAll", "popMagic")
+tailieumoi.vn#%#//scriptlet("set-constant", "linkAff", "null")
+tctruyen.net,tctruyen.com,abtruyen.com,phimss.com#%#//scriptlet("abort-current-inline-script", "$", "popup")
+tinsoikeo.care#%#//scriptlet("abort-current-inline-script", "$", "window.open")
+tinsoikeo.care#%#//scriptlet("abort-on-property-read", "sessionStorage")
+truyen2u.net#%#//scriptlet("abort-current-inline-script", "eval")
+truyen35.vn#%#//scriptlet("abort-current-inline-script", "jQuery", "click_ads")
+truyenqqvn.com,animehay.city#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "window.open")
+truyensextv.com#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "popup")
+truyensieuhay.com,phimvietsub.pro,quangcaoyenbai.com,sieudamtv.one,ephimchill.com,maclife.io,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.net,www.khophim88s.com,nhentaivn.com,khophimchill.net,mv.dailyphimz.com,mv.phimbathu.one#%#//scriptlet("abort-on-property-read", "document.cookie")
+truyentuan.xyz#%#//scriptlet("abort-current-inline-script", "$", "btpop")
+vailonxx.com,phimlongtieng.com,phimlongtieng.net#%#//scriptlet("abort-current-inline-script", "jQuery", "window.open")
+veryfiles.com#%#//scriptlet("abort-on-property-read", "nFNcksmwU")
+viet69.bz,ungtycomicsvip.com,vlxx.moe,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.co,cliphot69.city,doctruyen3qkr.com,hentaizz.me,animehay.city,heo69.day,top1sex.club,lenlut.tv,xemxxx.net,hentaivn.top,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.io,cdnstream.sbs,javtiful.com,truyengihotdo.net,truyengihotzay.net,truyengihotnha.com,truyengihotnha.net,truyengihotqua.net,truyengihotqua.com,truyengihotnay.com,tuoi69.blog,quatvn2.club,tenmientruyengi.net,topxxxviet.com,phim18hd.top,web.sexviet88.day,sexphetv.pro,helvid.net#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
+viettoons.tv,mv.phimmoiaz.cc,dood.pm,ytstv.me,animet.net,anh.moe,truyenhentaivn.com#%#//scriptlet("abort-on-property-read", "open")
+vinaurl.net#%#//scriptlet("abort-on-property-read", "oneClick")
+vndoc.com#%#//scriptlet("set-constant", "seconds", "0")
+vungoctuan.vn#%#//scriptlet("abort-current-inline-script", "document.write", "snow")
+vungoctuan.vn#%#//scriptlet("prevent-xhr", "ads")
+www.o-study.net##.backdrop-popup
+www.o-study.net#$#body {position: static !important}
+www.saostar.vn#$#div.layout.pt-mobi-top {padding-top: 0 !important}
+www.saostar.vn#$#header.bg-white {margin-top: 0px !important}
+www.toptruyen3.info#%#//scriptlet("abort-current-inline-script", "Promise", "instance")
+xnxx-sex-videos.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "window.location")
+xnxx-sex-videos.com#%#//scriptlet("remove-attr", "target|onclick", "a[href^='/video/']")
+xoivo2.online,tructiepdabong5.co,vaoroi365.com#%#//scriptlet("set-constant", "adsPlayer", "")
+xoivo2.online,tructiepdabong5.co,vaoroi365.com#%#//scriptlet("set-constant", "adsTvcs", "")
+yts.do,yts.mx,yts.rs#%#//scriptlet("abort-on-property-read", "atob")
+znews.vn#%#//scriptlet("abort-on-property-read", "adtimaConfig")
+zuiphim2.com#%#//scriptlet("abort-on-property-read", "matchMedia")
+##.mt-3.col-auto > div.rounded.bg-light.m-1
+##.mKeU0yLx > video
+##.d-flex.justify-content-center.rounded.bg-light.row
+##.g83SKg2a > video
+###bmhHFx6z > video
+###bmhHFx6z
+###iADGxT9A
+fastpic.org##video
+fastpic.org##.text-center.col
+fastpic.org##.sticky-top.text-center.bleft.p-1.rounded.bg-light.col-auto
+fastpic.org##.nutNYLIa
+fastpic.org##.if.embed-responsive
+note1s.com##.wxrouzovyskfjhsjkdfhwwssommwruymmwxrouzovyskfjhsjkdfhwwsso.wxrouzovyskfjhsjkdfhwwssommupyxrptpmouuxnrupwmmwxrouzovyskfjhsjkdfhwwsso.wxrouzovyskfjhsjkdfhwwssommtupntmmwxrouzovyskfjhsjkdfhwwsso
+dmm.co.jp##[id="welcome"]
+###catfish_content
+reddit.com##faceplate-hovercard > div[slot="content"]
+reddit.com##div#faceplate-tooltip
+reddit.com##[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##body:has(> shreddit-app > shreddit-async-loader[bundlename="app_selector"]):style(overflow: auto !important; pointer-events: auto !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+reddit.com##[bundlename$="nsfw_blocking_modal"]:remove()
+reddit.com##xpromo-nsfw-blocking-container:shadow(.prompt:has(> .viewInApp))
+www.reddit.com##xpromo-nsfw-blocking-modal-desktop
+##.center.ADs-BG
+###mp-preload-popup-overlay
+##.spinner-kckar8jz
+##.toast-kckar8jz
+###ads
+##div.fads
+##div.fadsxxx
+##div._4KjPzfFqnPyBgIgiXkX
+##div.site-content.content-chapter:nth-child(6) > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.ad.c-ads.custom-code.col-md-12.ehihi:nth-child(2) > div.container > div.row
+###chapter_content > div.ad.c-ads.custom-code.col-md-12.fhihi:first-child > div.row
+##div:nth-child(29)
+###_pop-qqgo-11
+###footerFixed > div.footer-banner-container
+##.ipprtcnt
+##.footer-fixed-br-container
+##.show.modal.sspp-modal.d-modal.v-modal.fade
+##.show.modal-backdrop.fade
+##.sspp-area
+##.adx1
+###vl-header-adx
+###vl-underplayer-adx
+##.popup
+##.popup-overlay
+##.disable-ads-icon
+##.cat-footer-wrapper
+##.container-aam.container > .aam-banner-wrapper
+##.container-aam-player.container > .aam-banner-wrapper
+##div.catfish-bottom
+###header > div.banner-img
+###preload > div.popup-content
+###preload > a.close-button
+##html > div:nth-child(3)
+##div.gwd-banner-image:nth-child(2) > div.footer-banner-gwd:last-child > div.row-gwd.row.row-collapse
+###top > div.p-body:nth-child(3) > div.p-body-inner > div.samCodeUnit:nth-child(6) > div.samItem
+###footer > div.p-footer-inner > div.samCodeUnit:nth-child(2)
+###modal1
+##div.md-overlay:nth-child(11)
+truyenqq.com.vn###flyer
+###_pop-1
+##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.main-col.sidebar-hidden.col-md-12.col-sm-12 > div.main-col-inner.c-page > div.row-gwd.row.row-collapse:nth-child(2)
+###ctl00_divCenter > div.reading > div.banner-container.show-sps:nth-child(6)
+foxtruyen.com##div.background-black.container-background-manga:nth-child(5) > div.container:first-child > div.content_detail.content_detail_manga:last-child > div:first-child
+foxtruyen.com##div.background-black.container-background-manga:nth-child(5) > div.container:first-child > div.text-center:first-child
+foxtruyen.com##div.background-black.container-background-manga:nth-child(5) > div.container:first-child > div.content_detail.content_detail_manga:last-child > div:last-child
+##+js(abort-on-property-read.js, jQuery)
+nettruyenviet1.com###aspnetForm > div.ads-banner.wap_bottombanner.banner-ios-mobile:nth-child(7)
+xn--12cmb2ccf5rsb7e.net###single-wrapper > div.tad-cen.container:first-child
+xn--12cmb2ccf5rsb7e.net###widget_03
+xn--12cmb2ccf5rsb7e.net###widget_02
+xn--12cmb2ccf5rsb7e.net###widget_04
+###wap_bottombanner_content
+###motchill-ads-wrapper
+##div.chat-telegram
+||*.*/pop
+||osrbwehfobh.com^
+||staticone88.com^
+||fafpiqlmaogr.com^
+||gobob.xyz^
+||jktrackiz.net^
+||livechatinc.com^
+||wufsadorwokz.com^
+||atgnpuwadlt.com^
+||fmiruvozqvac.com^
+||fimagfminm.com^
+||gzejtyrwe.com^
+||oqmxzuagpokf.com^
+||qpacubjmaod.com^
+||*.in^
+||*.ly^
+||pollitika.com^
+||ochomeremodeling.com^
+||michiganaidscoalition.org^
+||adcenter.cx^
+||tuqahfxt.com^
+||zo88.com^
+||*.cfd^
+||388bet.phd^
+||sin88.wales^
+||lucky88.futbol^
