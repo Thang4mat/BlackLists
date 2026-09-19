@@ -379,3 +379,21 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 ||vziodjoxbanr.in
 
 >>>>>>> b6e62ade46c01dbecc48966b2033a45915600bde
+
+||tndeal.io^
+
+!----Regex----
+/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+/^(.+[_.-])?telemetry[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^adim(age|g)s?[0-9]*[_.-]/
+/^adtrack(er|ing)?[0-9]*[_.-]/
+/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+/^analytics?[_.-]/
+/^banners?[_.-]/
+/^beacons?[0-9]*[_.-]/
+/^count(ers?)?[0-9]*[_.-]/
+/^mads\./
+/^pixels?[-.]/
+/^stat(s|istics)?[0-9]*[_.-]/
+/^(.+[_.-])?[a-z]{1,10}88[a-z0-9]{0,6}[_.-]/
