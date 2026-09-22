@@ -1,3 +1,6 @@
+!
+! Title: BlackList
+!
 ! ---------Rule only for AdGuard------
 animevietsub.io#%#//scriptlet("abort-current-inline-script", "document.documentElement", "break;case $.")
 aoe.vn#%#//scriptlet("abort-on-property-read", "parseInt")
