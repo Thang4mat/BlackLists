@@ -169,12 +169,6 @@ www.reddit.com##xpromo-nsfw-blocking-modal-desktop
 ##.show.modal-backdrop.fade
 
 ||finallygotthexds.site
-||9bet.net
-||tx88.com
-||k88.pro
-||789.club
-||shbet800.com
-||jun888k2.mobi
 ##.sspp-area
 ##.adx1
 ###vl-header-adx
@@ -353,7 +347,6 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 ##div.chat-telegram
 ||*.*/pop
 ||osrbwehfobh.com^
-||staticone88.com^
 ||fafpiqlmaogr.com^
 ||gobob.xyz^
 ||jktrackiz.net^
@@ -372,14 +365,6 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 ||michiganaidscoalition.org^
 ||adcenter.cx^
 ||tuqahfxt.com^
-||zo88.com^
-||*.cfd^
-||388bet.phd^
-||sin88.wales^
-||lucky88.futbol^
-=======
-||kurmarlibri.in
-||vziodjoxbanr.in
 
 >>>>>>> b6e62ade46c01dbecc48966b2033a45915600bde
 
