@@ -384,6 +384,7 @@ xn--12cmb2ccf5rsb7e.net###widget_04
 >>>>>>> b6e62ade46c01dbecc48966b2033a45915600bde
 
 ||tndeal.io^
+||collector.moonforge.co^
 
 !----Regex----
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
